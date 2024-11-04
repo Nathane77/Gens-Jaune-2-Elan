@@ -46,7 +46,6 @@ nav{
     width: 100%;
     padding: 1em;
     text-align: center;
-    color: white;
     height: fit-content;
     justify-content: center;
 }
@@ -132,13 +131,12 @@ a{
         max-width: 100%;
         width: 100%;
     }
-    .test{
+    .main-body{
         flex-direction: column;
         width: 100%;
     }
     header{
         width: 100%;
-        justify-content: space-around;
     }
     #banner{
         display: flex;
@@ -156,9 +154,6 @@ a{
         text-align: justify;
         max-width: 100%;
         font-size: 1em;
-    }
-    aside{
-        width: 100%;
     }
     #bio{
         text-align: start;
